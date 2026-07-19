@@ -1,8 +1,6 @@
 """
 PSEUDOCODE
 
-Start
-
 Capture invoice information
 
 Capture vendor information
